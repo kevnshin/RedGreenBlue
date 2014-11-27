@@ -1,0 +1,23 @@
+{
+  "name": "RedGreenBlue",
+  "version": "1.0.0",
+  "description": "RedGreenBlue ============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevnshin/RedGreenBlue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevnshin/RedGreenBlue/issues"
+  },
+  "homepage": "https://github.com/kevnshin/RedGreenBlue",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-sass": "^1.1.0"
+  }
+}
