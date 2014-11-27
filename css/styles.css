@@ -1,0 +1,13 @@
+.color_block {
+  padding: 50px;
+  background-color: #EEE;
+  border: 5px solid black; }
+  .color_block#red {
+    border-color: #c71c1c;
+    background-color: #f7b2b2; }
+  .color_block#green {
+    border-color: #4A7026;
+    background-color: #d3edbb; }
+  .color_block#blue {
+    border-color: #0f6985;
+    background-color: #b3e4f2; }

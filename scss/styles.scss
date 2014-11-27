@@ -1,3 +1,6 @@
+@import "partials/settings";
+@import "../bower_components/foundation/scss/foundation";
+
 .color_block {
 
   padding: 50px;
@@ -20,8 +23,8 @@
 
   &#blue{
 
-    border-color: #b3e4f2;
-    background-color: #0f6985;
+    border-color: #0f6985;
+    background-color: #b3e4f2;
 
   }
 
